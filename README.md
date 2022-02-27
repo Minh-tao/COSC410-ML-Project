@@ -1,1 +1,1 @@
-# COSC410 Spring '22 Machine Learning Project
+# COSC410 Machine Learning Project
