@@ -1,1 +1,1 @@
-# COSC410_F22_ML_Project
+# COSC410 Machine Learning Project
